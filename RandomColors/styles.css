@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    margin-top: 20%vh;
+    text-align: center;
+    font-size: 5rem;
+}
+span{
+    transition: color 700ms;
+}

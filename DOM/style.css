@@ -1,0 +1,15 @@
+#banner{
+    width: 25%;
+    height: 10%;
+}
+h1{
+    font-family: Wendy One ;
+    border: 2px black;
+    background-color: rgb(148, 67, 67);
+    color:rgb(43, 43, 114);
+    display: block;
+    width:55px;
+}
+.pokemon{
+    height:200px;
+}
