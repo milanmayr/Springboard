@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(78, 141, 235, 0.945);
+}
+.container{
+    border: 2px solid black;
+    display: inline-grid;
+    width:25%;
+    padding: 0;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+span{
+    float: right;
+    color:rgb(59, 35, 4);
+    font-size:1.5rem;
+    padding-right: 10px;
+    
+}
+span:hover{
+    cursor: pointer;
+}
+h1{
+    background-color: sienna;
+    margin-bottom: 0;
+    padding-left: 20%;
+
+}
+input{
+    height: 40px;
+}
+li{
+    height: 40px;
+}
+ul{
+    list-style: none;
+}
